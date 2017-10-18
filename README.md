@@ -1,5 +1,5 @@
 
-# assertValid v1.0.0
+# assertValid v1.0.1
 
 ```js
 const assertValid = require('assertValid');
